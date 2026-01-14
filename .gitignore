@@ -1,0 +1,13 @@
+# Environment variables
+# Never commit secrets - use .env.example as template
+.env
+.env.*
+!.env.example
+
+# Generated output
+# Each context folder contains session.json and generated files
+artifacts/
+
+# Dependencies
+# Reinstall with `bun install`
+node_modules/

@@ -1,0 +1,12 @@
+{
+  "name": "<domain>-tool",
+  "type": "module",
+  "private": true,
+  "scripts": {
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "dependencies": {
+  }
+}
